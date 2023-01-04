@@ -1,0 +1,1 @@
+{"a8e91043401c35054e0952b2af18b3fb":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"1452ef1caf92cb41","reportUrl":"http://localhost:2020/job/api_test/2/allure/#testresult/1452ef1caf92cb41","status":"passed","time":{"start":1672801864140,"stop":1672801872283,"duration":8143}}]}}
