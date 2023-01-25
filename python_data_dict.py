@@ -33,7 +33,7 @@ dict={
     "country": "US"
   }
 }
-#pprint(dict['billing']['address_1'])
+pprint(dict['billing']['address_1'])
 dict='hello',123,{'name':'test'}
 for a in dict:
     print(a)

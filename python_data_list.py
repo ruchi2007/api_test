@@ -1,4 +1,4 @@
-list='hello',1,{'name':'adil'}
+list=['hello',1,{'name':'adil'}]
 #print(type(list))
 print(len(list[0]))
 #print(list[0][4])
